@@ -1,0 +1,8 @@
+F:\workspqce\taotao-order\src\main\java\com\taotao\order\pojo\OrderInfo.java
+F:\workspqce\taotao-order\src\main\java\com\taotao\order\dao\impl\JedisClientCluster.java
+F:\workspqce\taotao-order\src\main\java\com\taotao\order\dao\JedisClient.java
+F:\workspqce\taotao-order\src\main\java\com\taotao\order\service\OrderService.java
+F:\workspqce\taotao-order\src\main\java\com\taotao\order\controller\OrderController.java
+F:\workspqce\taotao-order\src\main\java\com\taotao\order\scheduler\DeleteOldOrder.java
+F:\workspqce\taotao-order\src\main\java\com\taotao\order\dao\impl\JedisClientPool.java
+F:\workspqce\taotao-order\src\main\java\com\taotao\order\service\Impl\OrderServiceImpl.java
